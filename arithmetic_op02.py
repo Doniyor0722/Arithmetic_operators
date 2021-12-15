@@ -1,3 +1,3 @@
 number=43
-answer=4+3
-print(answer)
+answer=number/10+number%10
+print(int( answer))
